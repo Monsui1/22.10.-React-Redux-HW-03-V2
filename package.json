@@ -1,0 +1,14 @@
+{
+  "name": "search-for-flights-vite-rdux-toolkit-ts",
+  "version": "1.0.0",
+  "description": "fake API",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "author": "kioriki",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
